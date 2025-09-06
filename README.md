@@ -7,13 +7,6 @@
 
 ---
 
-## Screenshots
-<img src="img/page1-overview.png" width="1000">
-<img src="img/page2-provider.png" width="1000">
-<img src="img/model.png" width="800">
-
----
-
 ## Key Insights (Apr–Jul 2025)
 - **Seen within 4 hours ≈ 75%**, **Breach Rate ≈ 25%**, **Attendances ≈ 18M** in this slice.
 - **Monthly trend improving** from April → July on Seen <4h.
